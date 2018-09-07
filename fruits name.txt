@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 berry, Banana, grapes, pawpaw, apples.
 pears, apple, watermelon, pawpaw.
+=======
+Apple, Banana, pears, pawpaw, nuts
+>>>>>>> parent of 2658c48... add more fruits
