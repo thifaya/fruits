@@ -1,2 +1,2 @@
-Apple, Banana, pears, pawpaw, nuts.
-grapes, berry, watermelon, strawberry.
+berry, Banana, grapes, pawpaw, apples.
+pears, apple, watermelon, pawpaw.
